@@ -1,3 +1,12 @@
+# Intentions
+
+* Great bash scripting built on the great work of others
+* will be worked a while in this repo: git@github.com:guillaumedescoteauxisabelle/as.git branch bin
+
+----
+Original repo README
+----
+
 # BSFL
 
 [![Build Status](https://travis-ci.org/SkypLabs/bsfl.svg?branch=master)](https://travis-ci.org/SkypLabs/bsfl)
